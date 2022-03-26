@@ -1,0 +1,2 @@
+(1) ./bin/activity-detection input/trace_analysis_1018_Activity_PVP_0.csv output/ActDetect_1018_PvP_0.csv
+(2) ./bin/activity-detection input/trace_analysis_1111_Raid_0.csv output/ActDetect_1111_Raid_0.csv
